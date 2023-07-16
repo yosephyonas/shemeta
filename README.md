@@ -1,4 +1,4 @@
-# shemeta
+# shmeta
 
 A new Flutter project.
 
