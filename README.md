@@ -18,10 +18,9 @@ E-commerce app made using Xampp,Mysql,PHP,Flutter
 
 THE Admin Pages and with all the controls
 
+<img src="https://github.com/yosephyonas/shmeta/assets/101545038/18cb5933-fc00-4faf-8bd8-536c1e2cf19b" alt="Screenshot" width="300">
 
-![Screenshot_20230717-021702](https://github.com/yosephyonas/shmeta/assets/101545038/18cb5933-fc00-4faf-8bd8-536c1e2cf19b)
-
-![Screenshot_20230717-021811](https://github.com/yosephyonas/shmeta/assets/101545038/44bbf5b1-5878-447e-b44e-68f169642a14)
+<img src="https://github.com/yosephyonas/shmeta/assets/101545038/44bbf5b1-5878-447e-b44e-68f169642a14" alt="Screenshot" width="300">
 
 <img src="https://github.com/yosephyonas/minimal-todo-app/assets/101545038/4b347034-1bc0-4516-94a9-eb886250ab2c" alt="Screenshot" width="300">
 
