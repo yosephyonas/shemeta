@@ -2,19 +2,23 @@
 
 E-commerce app made using Xampp,Mysql,PHP,Flutter
 
-![Screenshot_20230717-020721](https://github.com/yosephyonas/shmeta/assets/101545038/fdda9922-d288-4513-9fd8-3f11a12779fd)
+User Page
 
-![Screenshot_20230717-021517](https://github.com/yosephyonas/shmeta/assets/101545038/a4417279-877a-4297-b8e5-1a0ee00a2d3a)
+<img src="[https://github.com/yosephyonas/shmeta/assets/101545038/18cb5933-fc00-4faf-8bd8-536c1e2cf19b]" alt="Screenshot" width="300">
 
+![Screenshot_20230717-021517]()
 
-![Screenshot_20230717-021047](https://github.com/yosephyonas/shmeta/assets/101545038/0f699138-db82-47e2-9eda-dfe322296fd8)
+<img src="[https://github.com/yosephyonas/shmeta/assets/101545038/18cb5933-fc00-4faf-8bd8-536c1e2cf19b]" alt="Screenshot" width="300">
 
-![Screenshot_20230717-021112](https://github.com/yosephyonas/shmeta/assets/101545038/e6d0d0c4-80b4-4f67-a9cf-c60de6ec4cdb)
+<img src="https://github.com/yosephyonas/shmeta/assets/101545038/0f699138-db82-47e2-9eda-dfe322296fd8" alt="Screenshot" width="300">
 
-![Screenshot_20230717-021147](https://github.com/yosephyonas/shmeta/assets/101545038/2aa13cad-4b8a-4fc8-8e45-d2eeb8531cd3)
+<img src="https://github.com/yosephyonas/shmeta/assets/101545038/e6d0d0c4-80b4-4f67-a9cf-c60de6ec4cdb" alt="Screenshot" width="300">
 
+![Screenshot_20230717-021147]()
+<img src="https://github.com/yosephyonas/shmeta/assets/101545038/2aa13cad-4b8a-4fc8-8e45-d2eeb8531cd3" alt="Screenshot" width="300">
 
-![Screenshot_20230717-021154](https://github.com/yosephyonas/shmeta/assets/101545038/79fda890-9829-4692-ae0d-73c2cb032f87)
+![Screenshot_20230717-021154]()
+<img src="https://github.com/yosephyonas/shmeta/assets/101545038/79fda890-9829-4692-ae0d-73c2cb032f87" alt="Screenshot" width="300">
 
 THE Admin Pages and with all the controls
 
