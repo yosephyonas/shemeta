@@ -11,7 +11,8 @@ User Page
 <img src="https://github.com/yosephyonas/shmeta/assets/101545038/79fda890-9829-4692-ae0d-73c2cb032f87" alt="Screenshot" width="300">
 </div>
 
-THE Admin Pages and with all the controls
+Admin Pages and Controls:
+
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; margin: 20px;">
 <img src="https://github.com/yosephyonas/shmeta/assets/101545038/18cb5933-fc00-4faf-8bd8-536c1e2cf19b" alt="Screenshot" width="300">
