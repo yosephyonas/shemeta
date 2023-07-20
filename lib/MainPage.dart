@@ -249,5 +249,6 @@ final List<String> categories = [
   'Cars',
   'Furnitures',
   'Construction',
+  'Cosmotics'
   // Add more categories as needed
 ];
