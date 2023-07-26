@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
   );
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Shmeta',
+      title: 'My App',
       initialRoute: '/home',
       getPages: [
         GetPage(name: '/get_started', page: () => const GetStartedPage()),
@@ -50,7 +50,7 @@ class MyApp extends StatelessWidget {
         future: SharedPreferences.getInstance(),
         builder: (context, snapshot) {
           if (snapshot.connectionState == ConnectionState.done) {
-            
+
             // Initialize the user data controller
             UserController userController = Get.put(UserController());
 
