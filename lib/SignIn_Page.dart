@@ -37,9 +37,10 @@ class SigninPage extends StatelessWidget {
             toastLength: Toast.LENGTH_SHORT,
             gravity: ToastGravity.BOTTOM,
           );
-          // Save the user email in shared preferences
-          SharedPreferences prefs = await SharedPreferences.getInstance();
-          await prefs.setString('userData', userEmail);
+     // Save the user email and token in shared preferences
+        SharedPreferences prefs = await SharedPreferences.getInstance();
+        await prefs.setString('userData', userEmail);
+        await prefs.setString('token', token);
 
           // Update the user data controller
           UserController userController = Get.put(UserController());

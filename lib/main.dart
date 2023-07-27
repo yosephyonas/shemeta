@@ -50,25 +50,25 @@ class MyApp extends StatelessWidget {
         future: SharedPreferences.getInstance(),
         builder: (context, snapshot) {
           if (snapshot.connectionState == ConnectionState.done) {
-
-            // Initialize the user data controller
             UserController userController = Get.put(UserController());
 
-            // Check the login status
             SharedPreferences prefs = snapshot.data!;
             bool loggedIn = prefs.getBool('loggedIn') ?? false;
             if (loggedIn) {
               String? userEmail = prefs.getString('userData');
-              if (userEmail != null) {
+              String? userToken = prefs.getString('token');
+
+              if (userEmail != null && userToken != null) {
                 userController.loginUser(
-                    userEmail, ''); // Set the logged-in user data
-                return const Home(); // Navigate to the home page
+                    userEmail, '',
+                    userToken, '', 
+                    ); // Set the logged-in user data
+                return const Home();
               }
             }
-            // Redirect the user to the GetStartedPage
-            return const GetStartedPage();
+            return const GetStartedPage()
           } else {
-            return const CircularProgressIndicator(); // Handle loading state
+            return const CircularProgressIndicator();
           }
         },
       ),

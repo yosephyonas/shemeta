@@ -13,11 +13,9 @@ class UserController extends GetxController {
     if (savedEmail != null && savedToken != null) {
       email.value = savedEmail;
       token.value = savedToken;
-      // User is logged in, navigate to the home page
       Get.offAllNamed('/home');
     } else {
-      // User is not logged in, navigate to the get started page
-      Get.offAllNamed('/get_started');
+ Get.offAllNamed('/get_started');
     }
   }
 
@@ -27,7 +25,7 @@ class UserController extends GetxController {
     await prefs.setString('token', token);
     this.email.value = email;
     this.token.value = token;
-    // User is logged in, navigate to the home page
+    
     Get.offAllNamed('/home');
   }
 
@@ -37,7 +35,6 @@ class UserController extends GetxController {
     await prefs.remove('token');
     email.value = '';
     token.value = '';
-    // User is logged out, navigate to the get started page
-    Get.offAllNamed('/get_started');
+=    Get.offAllNamed('/get_started');
   }
 }
