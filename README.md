@@ -8,7 +8,7 @@ User Page
 <img src="https://github.com/yosephyonas/shmeta/assets/101545038/0f699138-db82-47e2-9eda-dfe322296fd8" alt="Screenshot" width="300">
 <img src="https://github.com/yosephyonas/shmeta/assets/101545038/e6d0d0c4-80b4-4f67-a9cf-c60de6ec4cdb" alt="Screenshot" width="300">
 <img src="https://github.com/yosephyonas/shmeta/assets/101545038/2aa13cad-4b8a-4fc8-8e45-d2eeb8531cd3" alt="Screenshot" width="300">
-<img src="https://github.com/yosephyonas/shmeta/assets/101545038/79fda890-9829-4692-ae0d-73c2cb032f87" alt="Screenshot" width="300">
+<img src="https://github.com/yosephyonas/shmeta/assets/101545038/3f21792f-328e-40f7-a066-c70a090be54e" alt="Screenshot" width="300">
 </div>
 
 Admin Pages and Controls:
