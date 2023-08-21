@@ -3,8 +3,6 @@
 ## Overview
 This is an E-commerce app created using Xampp, MySQL, PHP, and Flutter. The app includes both user and admin pages with various controls.
 
-## Screenshots
-![Screenshot_20230821-233812]()
 
 ### User Pages
 <div align="center">
@@ -15,7 +13,7 @@ This is an E-commerce app created using Xampp, MySQL, PHP, and Flutter. The app 
 
 ### Admin Pages and Controls
 <div align="center">
-  <img src="https://github.com/yosephyonas/shmeta/assets/101545038/18cb5933-fc00-4faf-8bd8-536c1e2cf19b" alt="Admin Screenshot" width="250">
+  <img src="https://github.com/yosephyonas/shmeta/assets/101545038/04a62205-6fd1-4e10-9071-a669f1d6f3a3" alt="Admin Screenshot" width="250">
   <img src="https://github.com/yosephyonas/shmeta/assets/101545038/44bbf5b1-5878-447e-b44e-68f169642a14" alt="Admin Screenshot" width="250">
   <!-- Add more admin screenshots here -->
 </div>
